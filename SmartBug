@@ -35,11 +35,11 @@
 
     <!--this is main-->
     <main>
-        <h3>
+        <h1>
             <p>
                 Website Redesign: The Anatomy of a Great Homepage
             </p>
-        </h3>
+        </h1>
         <p>
             By Amanda Singleton
         </p>
@@ -52,20 +52,20 @@
             In this blog post, we'll dive a little deeper on how (and why) to keep your homepage updated and optimized.
 
         </p>
-        <h3>
+        <h1>
             <p>
                 The Purpose of Optimizing Your Homepage
             </p>
-        </h3>
+        </h1>
         <p>
             Overall, the purpose of your website is to market your products or services and turn website visitors into leads and, eventually, customers—and your homepage is no different. It should be easy to navigate, easy to understand, and offers your personas information on what they are searching for.
 
             In essence, your homepage should answer the question, “Can I help you find what you’re looking for?” You want to help the visitor get from your homepage to page two, because then, they’ve expressed what they are interested in knowing more about.
         </p>
 
-        <h3>
+        <h1>
             Before Your Start Designing, Remember...
-        </h3>
+        </h1>
         <p>
             Clearly define goals and strategies for what you want your homepage to accomplish for your company first. These goals could include defining what your website is about and what you want the action step to be for users that visit your homepage.
 
@@ -75,35 +75,221 @@
 
             You should also recognize that most users who initially visit your website are not ready to buy, which correlates with our previous point of strategy: Have a plan to move users down the funnel, starting with your homepage.
         </p>
-        <h3>
-            Homepage Best Practices
-        </h3>
-        <h2>
-            
-        </h2>
+
+        <h1>Homepage Best Practices</h1>
+  
+        <h2>1. State Your Value Proposition</h2>
+    <ul>
+        <li>What is this product or service?</li>
+        <li>When I'm on this website, where should I go first?</li>
+        <li>Does the website help solve any problems for me?</li>
+        <li>Why should I choose this product/service over any others to solve my problems?</li>
+    </ul>
+        <h2>2. Persona-Focused Design and Copy</h2>
+        <p>Cater to the audience you are trying to attract:</p>
+    <ul>
+        <li>Define your persona's pain points</li>
+        <li>Offer solutions</li>
+        <li>Adjust the content of your website to be more personalized and relevant</li>
+    </ul>
+        <h2>3. Navigation</h2>
+        <p>Navigation is the most essential aspect. When visitors land on your website, they will often head to the navigation first to find what they need. Here are some tips to keep in mind.</p>
+    <ul>
+        <li>User-friendly</li>
+        <li>Limit the number of top-level navigation items</li>
+        <li>Keep dropdown menus to one level</li>
+    </ul>
+        <h2>4. Calls to Action</h2>
+        <p>Help move website visitors down the funnel in their buying process with the following CTAs:</p>
+    <ul>
+        <li><b>Awareness CTAs:</b> These calls to action should link to a landing page offering a piece of content that helps your website visitor gain more information on a certain topic.</li>
+        <li><b>Consideration CTAs:</b> These CTAs generally link to pieces of content that help solve problems that your website visitors have already defined.</li>
+        <li><b>Decision CTAs:</b> Decision CTAs link to something such as demo or a free trial of a product or service.</li>
+        <p>CTA placement is also important on your homepage. Your primary CTA should be "above the fold." This just means that your homepage visitors should be able to see the CTA without scrolling down the page.</p>
+    </ul>
+        <h2>5. Link to Popular Content</h2>
+        <p>Build trust and credibility with your visitors by linking to popular content on your homepage. This will also improve the amount of interaction between website pages.</p>
+
+        <h2>6. Colors</h2>
+        <p>Pick two to four colors for your website and marketing materials and not deviate from those. A simple, elegant color scheme goes a long way. in your homepage design.</p>
+
+        <h2>7. Responsive</h2>
+        <p>A website that is designed to adapt to whatever device a visitor is using allows for easy reading and scrolling without constantly adjusting your screen.</p>
+
+        <h1>Examples of Great Homepages</h1>
+        <p>Need a little inspiration for your homepage? Check out these examples.</p>
+
         <article>
+            <ul>
+            <li><a href="Adversus">Adversus</a></li>
+            <li><a href="Corporate Screening">Corporate Screening</a></li>
+            <li><a href="Service Fusion">Service Fusion</a></li>
+            <li><a href="DISC Sports & Spine Center">DISC Sports & Spine Center</a></li>
+            <li><a href="Yousign">Yousign</a></li>
+            <li><a href="Zenefits">Zenefits</a></li>
+            </ul>
+
+        <p><hr>This post was originally published in 2015 and has been updated since.</p>
             
-         <ul>
-            
-        <ol>            
-            <li><b>State Your Value Proposition</b></li>
-        </ol>
-            
-            <li> What is this product or service?</li>
-            <li> When I'm on this website, where should I go first?</li>
-            <li> Does the website help solve any problems for me?</li>
-            <li> Why should I choose this product/service over any others to solve my problems?</li>
-        
-        </ul>
+            <img src=""alt="">
+
+            <p><b>Topics:</b>
+                <a href=" Web Design,"> Web Design</a>
+                <a href="  Web Development,">  Web Development</a>
+                <a href="   Usability,">  Usability</a>
+                <a href="   User Experience">  User Experience</a>
+            </p>
+    
         </article>
-        
 
+        <h2>Subscribe to get our new blogs delivered right to your inbox</h2>
 
-    </main>
+        </main>
     <!--this is main-->
 
-    <footer>
 
-    </footer>
+     <!--Website footer-->
+        <Footer style="display: flex;">
+
+        <section >
+          
+            <button>
+                <p href=""><img src="" alt="">img</p>
+            </button>            
+          
+               <p href=""><button><h1>SmartBug.</h1></button></p> 
+
+            <p href=""> <button><h4>Boost Revenue</h4></button></p>
+            
+        
+        
+            <nav>
+                <button>
+                    <p href="">In<img src="" alt=""></p>
+                </button>
+
+                <button>
+                    <p href="">Yt<img src="" alt=""></p>
+                </button>
+
+                <button>
+                    <p href="">IG<img src="" alt=""></p>
+                </button>
+
+                <button>
+                    <p href="">F<img src="" alt=""></p>
+                </button>
+
+                <button>
+                    <p href="">P<img src="" alt=""></p>
+                </button>
+            </nav>
+        
+            <p>© 2025 SmartBug Media, Inc., a full- <br>
+                service digital agency.<p>
+        
+            <nav>
+                <button>
+                    <a href="">Privacy</a>
+                </button>
+
+                <button>
+                    <a href="">Terms</a>
+                </button>
+
+                <button>
+                    <a href="">HIPAA</a>
+                </button>
+            </nav>
+         </section> &nbsp;
+
+        <section>&nbsp;
+            <h3>HubSpot Services</h3>&nbsp; 
+
+            
+            <p><a href="">HubSpot Onboarding</a></p>
+            <p><a href="">HubSpot Admin</a></p> 
+            <p><a href="">Marketing Hub</a></p>
+            <p><a href="">Sales Hub</a> </p>
+            <p><a href="">Service Hub</a></p>
+            <p><a href="">Content Hub</a></p>
+            <p><a href="">Commerce Hub</a></p>
+            <p><a href="">Operations Hub</a></p>
+            <p><a href="">Integrations & Migrati</p>ons</a></p>
+            <p><a href="">HubSpot Training</a></p>
+            
+        
+            <h3> About</h3>
+            <p><a href="">Our Story</a></p>
+            <p><a href="">Meet the Team</a></p>
+            <p><a href="">Partnerships</a></p>
+            <p><a href="">Events</a></p>
+            <p><a href="">Press</a></p>
+            <p><a href="">Careers</a></p>
+            <p><a href="">SmartBug Culture</a></p>
+            <p><a href="">SmartBug Palooza</a></p>
+            <p><a href="">Our Core Values</a></p>
+        </section>&nbsp;
+
+            <section>&nbsp;
+                &nbsp;<h3>AI & Tech Services</h3>&nbsp;
+
+                <p><a href="">AI Agents & Development</a></p>
+                <p><a href="">Website Development</a></p> 
+                <p><a href="">E-commerce</a></p>
+                <p><a href="">Integrations & Migrations</a></p> &nbsp;
+
+                <h3>Platforms</h3>
+                <p><a href="">WordPress</a></p>
+                <p><a href="">Craft CMS</a></p>
+                <p><a href="">Magento / Adobe Commerce</a></p>
+                <p><a href="">Shopify</a></p>
+                <p><a href="">HubSpot</a></p>
+            </section>&nbsp;
+
+        <section>&nbsp;
+            &nbsp;<h3>Solutions</h3>&nbsp;
+
+            <p><a href="">Demand Generation</a></p>
+            <p><a href="">Sales enablement</a></p>
+            <p><a href="">Paid Media</a></p>
+            <p><a href="">Revenue Operations</a></p>
+            <p><a href="">Customer success</a></p>
+            
+            <h3>Industries</h3>
+
+            <p><a href="">Healthcare</a></p>
+            <p><a href="">Senior Living</a></p>
+            <p><a href="">Manufacturing</a></p>
+            <p><a href="">SaaS</a></p>
+            <p><a href="">Finance</a></p>
+            <p><a href="">Franchise</a></p>
+            <p><a href="">Education</a></p>
+        </section> &nbsp;
+
+        <section>&nbsp;
+            &nbsp;<h3>Work & Awards</a></h3>&nbsp;
+
+            <p><a href="">Case Studies</a></p>
+            <p><a href="">Portfolio</a></p>
+            <p><a href="">Client Testimonials</a></p>
+            <p><a href="">Awards</a></p>
+            <p><a href="">Press</a></p>
+       
+
+            <h3>Resources</h3>
+
+            <p><a href="">Articles</a></p>
+            <p><a href="">E-Books</a></p>
+            <p><a href="">Templates</a></p>
+            <p><a href="">Webinars</a></p>
+            <p><a href="">Podcasts</a></p>
+            <p><a href="">Bootcamps</a></p>
+            <p><a href="">Assessments</a></p>
+        </section>&nbsp;
+
+    </Footer>
+    <!--Website footer-->
+
 </body>
 </html>
